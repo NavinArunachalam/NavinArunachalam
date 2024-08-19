@@ -1,4 +1,4 @@
-##👋 Hi, I’m @NavinArunachalam
+## 👋 Hi, I’m @NavinArunachalam
 - ### I'm BCA Graduate
 - 👀 I’m interested in ... Web developement 
 - 🌱 I’m currently learning ...MEARN STACK 
