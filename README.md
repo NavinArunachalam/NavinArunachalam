@@ -2,7 +2,7 @@
 - ### I'm BCA Graduate
 - 👀 I’m interested in ... Web developement 
 - 🌱 I’m currently learning ...MEARN STACK 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking For Start work at Webdeveloper...
 - 📫 How to reach me ...navinarunachalam@gmail.com
 ##  🛠️  Technologies Used
 ![HTML5 Logo](https://img.icons8.com/color/48/000000/html-5--v1.png)
@@ -14,21 +14,8 @@
 ![Bootstrap Logo](https://img.icons8.com/color/48/000000/bootstrap.png)
 ![MySQL Logo](https://img.icons8.com/color/48/000000/mysql-logo.png)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" alt="Express.js Logo"/>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  ##  🛠️  Technologies Used
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" padding="5px" style="margin-right:5px"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" padding="5px" style="margin-right:5px"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" padding="5px" style="margin-right:5px"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" padding="5px" style="margin-right:5px"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" padding="5px" style="margin-right:5px"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" padding="5px" style="margin-right:5px"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" padding="5px" style="margin-right:5px"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" padding="5px" style="margin-right:5px"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" padding="5px" style="margin-right:5px"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" padding="5px" style="margin-right:5px"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" padding="5px" style="margin-right:5px"/>
-
+- 😄 Pronouns:
+- ⚡ Fun fact: 
 
 <!---
 NavinArunachalam/NavinArunachalam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
