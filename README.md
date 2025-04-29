@@ -26,7 +26,7 @@
 ![ReactJS Logo](https://img.icons8.com/color/48/000000/react-native.png)
 ![Bootstrap Logo](https://img.icons8.com/color/48/000000/bootstrap.png)
 ![MySQL Logo](https://img.icons8.com/color/48/000000/mysql-logo.png)
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" alt="Express.js Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" alt="Express.js Logo"/>
 
 
 
