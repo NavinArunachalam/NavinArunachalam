@@ -22,12 +22,11 @@
 ![CSS3 Logo](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![MongoDB Logo](https://img.icons8.com/color/48/000000/mongodb.png)
-![MySQL Logo](https://img.icons8.com/color/48/000000/mysql-logo.png)
 ![NodeJS Logo](https://img.icons8.com/color/48/000000/nodejs.png)
-![ExpressJS Logo](https://img.icons8.com/ios-filled/50/000000/express-js.png)
 ![ReactJS Logo](https://img.icons8.com/color/48/000000/react-native.png)
 ![Bootstrap Logo](https://img.icons8.com/color/48/000000/bootstrap.png)
-
+![MySQL Logo](https://img.icons8.com/color/48/000000/mysql-logo.png)
+![ExpressJS Logo](https://img.icons8.com/ios-filled/50/000000/express-js.png)
 
 
 - 😄 Pronouns: ...
