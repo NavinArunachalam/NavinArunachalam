@@ -1,12 +1,12 @@
 ## 👋 Hi, I’m @NavinArunachalam
-- ### I'm a BCA Graduate
+- #### I'm a BCA Graduate
 - 👀 I’m interested in **Web Development**
 - 🌱 I’m currently learning **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
 - 💞️ I’m looking for opportunities to start working as a **Web Developer**
 - 📫 How to reach me: [navinarunachalam@gmail.com](mailto:navinarunachalam@gmail.com)
-
+- 😄 **Pronouns**: He/Him
+- ⚡ **Fun Fact**: I love solving coding challenges and building small projects in my free time. Also, I'm a big fan of learning new technologies!
 ---
-
 ## 🛠️ Technologies Used
 ![HTML5 Logo](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS3 Logo](https://img.icons8.com/color/48/000000/css3.png)
@@ -21,8 +21,6 @@
 
 ---
 
-- 😄 **Pronouns**: He/Him
-- ⚡ **Fun Fact**: I love solving coding challenges and building small projects in my free time. Also, I'm a big fan of learning new technologies!
 
 <!---
 NavinArunachalam/NavinArunachalam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
