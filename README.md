@@ -4,6 +4,12 @@
 - 🌱 I’m currently learning **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
 - 💞️ I’m looking for opportunities to start working as a **Web Developer**
 - 📫 How to reach me: [navinarunachalam@gmail.com](mailto:navinarunachalam@gmail.com)
+- ## 👋 Find me on:
+- [![LinkedIn Logo](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/navinarunachalam)  [LinkedIn](https://www.linkedin.com/in/navinarunachalam)
+- [![Twitter Logo](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/navinarun)  [Twitter](https://twitter.com/navinarun)
+- [![Instagram Logo](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/navinarunachalam/)  [Instagram](https://www.instagram.com/navinarunachalam/)
+- [![Email Logo](https://img.icons8.com/color/48/000000/email.png)](mailto:navinarunachalam@gmail.com)  [Email](mailto:navinarunachalam@gmail.com)
+
 - 😄 **Pronouns**: He/Him
 - ⚡ **Fun Fact**: I love solving coding challenges and building small projects in my free time. Also, I'm a big fan of learning new technologies!
 ---
