@@ -7,6 +7,9 @@
 - 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- <a href="https://www.linkedin.com/in/YOUR-USERNAME/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat&logoColor=white" />
+</a>
 
 <!---
 NavinArunachalam/NavinArunachalam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
