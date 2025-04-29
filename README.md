@@ -11,8 +11,8 @@
 [![Twitter Logo](https://img.icons8.com/color/40/000000/twitter.png)](https://twitter.com/@Navin_A20)
 [![Instagram Logo](https://img.icons8.com/color/40/000000/instagram-new.png)](https://www.instagram.com/its_navin.dev?igsh=MTBtdjBuaGE4M2d1bg==)
 [![Email Logo](https://img.icons8.com/color/40/000000/email.png)](mailto:navinarunachalam@gmail.com)
-
-###🛠️ Technologies Used
+---
+### 🛠️ Technologies Used
 ![HTML5 Logo](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS3 Logo](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript--v1.png)
