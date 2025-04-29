@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ...MEARN STACK 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...navinarunachalam@gmail.com
-- 🚀 Technologies Used
+- 🚀 Technologies Used-
  ![HTML5 Logo](https://img.icons8.com/color/48/000000/html-5--v1.png)  ![CSS3 Logo](https://img.icons8.com/color/48/000000/css3.png)  ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png) 
 
 - 😄 Pronouns: ...
