@@ -20,16 +20,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" alt="Express.js Logo"/>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="28" style="margin-right:5px"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="28" style="margin-right:5px"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="28" style="margin-right:5px"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" height="28" style="margin-right:5px"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="28" style="margin-right:5px"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="28" style="margin-right:5px"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" height="28" style="margin-right:5px"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" height="28" style="margin-right:5px"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" height="28" style="margin-right:5px"/>
 
-<span style="margin-right: 5px;">![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)</span>
-<span style="margin-right: 5px;">![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)</span>
-<span style="margin-right: 5px;">![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)</span>
-<span style="margin-right: 5px;">![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)</span>
-<span style="margin-right: 5px;">![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)</span>
-<span style="margin-right: 5px;">![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)</span>
-<span style="margin-right: 5px;">![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)</span>
-<span style="margin-right: 5px;">![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)</span>
-<span style="margin-right: 5px;">![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)</span>
 
 <!---
 NavinArunachalam/NavinArunachalam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
