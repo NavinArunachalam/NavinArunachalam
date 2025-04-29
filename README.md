@@ -4,9 +4,11 @@
 - 🌱 I’m currently learning ...MEARN STACK 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...navinarunachalam@gmail.com
-- <a href="https://www.linkedin.com/in/YOUR-USERNAME/" target="_blank">
-  <img src="https://img.icons8.com/color/20/000000/linkedin.png" alt="LinkedIn" />
-</a>
+- 🚀 Technologies Used
+- ![HTML5 Logo](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML5
+- ![CSS3 Logo](https://img.icons8.com/color/48/000000/css3.png) CSS3
+- ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
