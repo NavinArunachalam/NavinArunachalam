@@ -13,7 +13,7 @@
 ![ReactJS Logo](https://img.icons8.com/color/48/000000/react-native.png)
 ![Bootstrap Logo](https://img.icons8.com/color/48/000000/bootstrap.png)
 ![MySQL Logo](https://img.icons8.com/color/48/000000/mysql-logo.png)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitHub Logo](https://img.icons8.com/color/48/000000/github.png)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" alt="Express.js Logo"/>
 - 😄 Pronouns:
 - ⚡ Fun fact: 
