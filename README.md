@@ -1,10 +1,13 @@
 ## 👋 Hi, I’m @NavinArunachalam
-- ### I'm BCA Graduate
-- 👀 I’m interested in ... Web developement 
-- 🌱 I’m currently learning ...MEARN STACK 
-- 💞️ I’m looking For Start work at Webdeveloper...
-- 📫 How to reach me ...navinarunachalam@gmail.com
-##  🛠️  Technologies Used
+- ### I'm a BCA Graduate
+- 👀 I’m interested in **Web Development**
+- 🌱 I’m currently learning **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
+- 💞️ I’m looking for opportunities to start working as a **Web Developer**
+- 📫 How to reach me: [navinarunachalam@gmail.com](mailto:navinarunachalam@gmail.com)
+
+---
+
+## 🛠️ Technologies Used
 ![HTML5 Logo](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS3 Logo](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript--v1.png)
@@ -15,8 +18,11 @@
 ![MySQL Logo](https://img.icons8.com/color/48/000000/mysql-logo.png)
 ![GitHub Logo](https://img.icons8.com/color/48/000000/github.png)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" alt="Express.js Logo"/>
-- 😄 Pronouns:
-- ⚡ Fun fact: 
+
+---
+
+- 😄 **Pronouns**: He/Him
+- ⚡ **Fun Fact**: I love solving coding challenges and building small projects in my free time. Also, I'm a big fan of learning new technologies!
 
 <!---
 NavinArunachalam/NavinArunachalam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
