@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @NavinArunachalam
----### I'm a BCA Graduate
+### I'm a BCA Graduate
 - 👀 I’m interested in **Web Development**
 - 🌱 I’m currently learning **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
 - 💞️ I’m looking for opportunities to start working as a **Web Developer**
