@@ -9,7 +9,7 @@
 ### 👋 Find me on:
 [![LinkedIn Logo](https://img.icons8.com/color/40/000000/linkedin.png)](https://www.linkedin.com/in/navin-arunachalam-90618b278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Twitter Logo](https://img.icons8.com/color/40/000000/twitter.png)](https://twitter.com/@Navin_A20)
-[![Instagram Logo](https://img.icons8.com/color/40/000000/instagram-new.png)](https://www.instagram.com/its_navin.dev?igsh=MTBtdjBuaGE4M2d1bg==)
+[![Instagram Logo](https://img.icons8.com/color/40/000000/instagram-new.png)](https://www.instagram.com/its_navin.a?igsh=MTBtdjBuaGE4M2d1bg==)
 [![Email Logo](https://img.icons8.com/color/40/000000/email.png)](mailto:navinarunachalam@gmail.com)
 ---
 ### 🛠️ Technologies Used
