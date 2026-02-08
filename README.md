@@ -42,8 +42,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Navin-A20&show_icons=true&theme=radical" height="150" alt="Navin's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navin-A20&layout=compact&theme=radical" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NavinArunachalam&show_icons=true&theme=radical" height="150" alt="Navin's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavinArunachalam&layout=compact&theme=radical" height="150" alt="Top Languages" />
 </div>
 
 ---
