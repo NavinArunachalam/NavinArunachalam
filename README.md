@@ -42,8 +42,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NavinArunachalam&show_icons=true&theme=radical" height="150" alt="Navin's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavinArunachalam&layout=compact&theme=radical" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=NavinArunachalam&theme=radical" height="150" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NavinArunachalam&theme=radical" alt="Profile Details" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NavinArunachalam&theme=react-dark" alt="Activity Graph" />
 </div>
 
 ---
