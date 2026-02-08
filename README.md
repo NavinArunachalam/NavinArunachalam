@@ -42,9 +42,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NavinArunachalam&theme=radical" height="150" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=NavinArunachalam&theme=highcontrast" height="150" alt="GitHub Streak" />
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NavinArunachalam&theme=radical" alt="Profile Details" />
+   <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NavinArunachalam&theme=highcontrast" alt="Profile Details" /> -->
 </div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NavinArunachalam&theme=react-dark" alt="Activity Graph" />
