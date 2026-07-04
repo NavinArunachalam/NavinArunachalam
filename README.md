@@ -20,6 +20,27 @@
 - ⚡ **Fun Fact**: I love solving coding challenges and building small projects in my free time. Code is my canvas!
 
 ---
+## 🚀 Projects
+
+### 📚 Axon Med Academy — Online Learning Platform
+Production learning platform with live classes, quizzes, and admin dashboard.
+**Tech:** React, Node.js, Express, MySQL
+🔗 [Live Demo](https://axonmedacademy.com/)
+
+### 🏫 SVGI — Institution Management CMS
+Dynamic CMS with 25+ pages and a configurable homepage system.
+**Tech:** React, Node.js, Express, MySQL
+🔗 [Live Demo](https://svgi.vercel.app/)
+
+### 🛒 Marutham Stores — eCommerce Platform
+Full-stack storefront with admin-managed inventory and orders.
+**Tech:** React, Node.js, Express, MySQL
+🔗 [Live Demo](https://www.maruthamstores.com/)
+
+### 🖼️ Virtual Museum Platform
+Interactive virtual museum experience for college students.
+**Tech:** React, Node.js, Express
+🔗 [Live Demo](https://virtualmuseum-six.vercel.app/explore)
 
 ### 🛠️ Tech Stack & Tools
 
